@@ -27,7 +27,7 @@ import {
   QuestionCircleOutlined,
   DeleteOutlined,
   RestOutlined,
-  ReloadOutlined
+  ReloadOutlined,
   QqOutlined
 } from '@ant-design/icons';
 import Head from 'next/head';
